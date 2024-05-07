@@ -1,9 +1,11 @@
 from tenacity import retry, wait_exponential, stop_after_delay, retry_if_exception_type
 import openai
 import os
+from dotenv import load_dotenv
 
+load_dotenv()
 
-openai.api_key = os.getenv("OPENAI_API_KEY")
+openai_api_key = os.getenv("openai_api_key")
 client = openai.OpenAI()
 
 
