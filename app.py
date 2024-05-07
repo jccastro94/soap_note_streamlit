@@ -7,12 +7,6 @@ from functions.db_functions import search_by_id, insert_data
 from functions.prompts import schema_form_filler_prompt, form_fill_prompt, form_grader_prompt
 from functions.functions import log_txt
 import re
-from dotenv import load_dotenv
-
-load_dotenv()
-
-openai_api_key = os.getenv("openai_api_key")
-client = openai.OpenAI()
 
 if 'current_screen' not in st.session_state:
     st.session_state.current_screen = 'start'

@@ -1,12 +1,18 @@
 from tenacity import retry, wait_exponential, stop_after_delay, retry_if_exception_type
-import openai
+from openai import OpenAI
 import os
 from dotenv import load_dotenv
 
 load_dotenv()
 
 openai_api_key = os.getenv("openai_api_key")
-client = openai.OpenAI()
+org_id = os.getenv("openai_api_key")
+project_id = os.getenv("openai_api_key")
+
+client = OpenAI(
+  organization=org_id,
+  project=project_id,
+)
 
 
 @retry(
