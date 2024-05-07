@@ -1,0 +1,60 @@
+The patient must have a significant health problem in the form of a neuromusculoskeletal condition necessitating treatment, and the manipulative services rendered must have a direct therapeutic relationship to the patient’s condition and provide reasonable expectation of recovery or improvement of function.
+The patient must have a subluxation of the spine as demonstrated by x-ray or physical examination, as described above.
+Most spinal joint problems fall into the following categories:
+- Acute subluxation-A patient’s condition is considered acute when the patient is being treated for a new injury, identified by x-ray or physical examination as specified above. The result of chiropractic manipulation is expected to be an improvement in, or arrest of progression, of the patient’s condition.
+- Chronic subluxation-A patient’s condition is considered chronic when it is not expected to significantly improve or be resolved with further treatment (as is the case with an acute condition); however, the continued therapy can be expected to result in some functional improvement. Once the clinical status has remained stable for a given condition, without expectation of additional objective clinical improvements, further manipulative treatment is considered maintenance therapy and is not covered.
+You must place the HCPCS modifier AT on a claim when providing active/corrective treatment to treat acute or chronic subluxation. However, the presence of the HCPCS modifier AT may not in all instances indicate that the service is reasonable and necessary.
+As shown in the Medicare Benefit Policy Manual, Chapter 15, Section 240, the doctor of chiropractic should be afforded the opportunity to effect improvement or arrest or retard deterioration in such condition within a reasonable and generally predictable period of time. Acute subluxation (for example, strains or sprains) problems may require as many as three months of treatment but some require very little treatment. In the first several days, treatment may be quite frequent but decreasing in frequency with time or as improvement is obtained.
+Chronic spinal joint condition implies, of course, the condition has existed for a longer period of time and that, in all probability, the involved joints have already “set” and fibrotic tissue has developed. This condition may require a longer treatment time, but not with higher frequency.
+
+The form must have:
+a.	Review of chief complaint
+b.	Changes since last visit
+c.	Systems review if relevant
+
+Must follow this checklist:
+Was the following description of the present illness documented?
+Age of the Patient? __________________
+[ ]YES [ ] NO
+Mechanism of trauma?________________________________________
+[ ]YES [ ]NO
+Symptoms causing patient to seek treatment?
+_________________________________________________________
+[ ]YES [ ]NO
+Chief complaint: location and description?
+_________________________________________________________
+[ ]YES [ ]NO
+Quality and character of symptoms/problem?
+[ ]YES [ ]NO
+Onset, duration, intensity, frequency, location, and radiation of symptoms?
+[ ]YES [ ]NO
+Prior interventions, treatments, medications, secondary?
+[ ]YES [ ]NO
+Aggravating or relieving factors?
+[ ]YES [ ]NO
+Prior interventions, treatments, medications, secondary complaints?
+[ ]YES [ ]NO
+Prior level of function documented?
+[ ]YES [ ]NO
+Are physician notes signed and dated?
+[ ]YES [ ]NO
+Grade: D
+
+Reasoning:
+
+The form filled out by the medical expert has several significant errors or omissions that would require substantial rework to meet the insurance criteria. Here's the breakdown based on the provided schema, guidelines, or examples:
+
+- Age of the Patient: The form includes "[Patient Age]" as a placeholder, but it does not specify the actual age. [ ] NO
+- Mechanism of trauma: The form mentions "[Mechanism of Trauma]" as a placeholder, but no specific details are provided. [ ] NO
+- Symptoms causing patient to seek treatment: The form does not provide specific symptoms that caused the patient to seek treatment. [ ] NO
+- Chief complaint: location and description: The form includes "[Chief Complaint]" as a placeholder, but no specific location or description is provided. [ ] NO
+- Quality and character of symptoms/problem: The form does not address the quality and character of the symptoms/problem. [ ] NO
+- Onset, duration, intensity, frequency, location, and radiation of symptoms: The form does not provide details on the onset, duration, intensity, frequency, location, and radiation of symptoms. [ ] NO
+- Prior interventions, treatments, medications, secondary: The form does not mention any prior interventions, treatments, or medications. [ ] NO
+- Aggravating or relieving factors: The form includes placeholders for "[Aggravating Factors]" and "[Relieving Factors]" but does not provide specific details. [ ] NO
+- Prior level of function documented: The form includes "[Prior Level of Function]" as a placeholder, but no specific information is provided. [ ] NO
+- Are physician notes signed and dated: The form includes "[Physician Notes Signed]" as a placeholder, but it does not confirm whether the notes are actually signed and dated. [ ] NO
+
+Additionally, the form does not provide evidence of a neuromusculoskeletal condition necessitating treatment, nor does it confirm the presence of a subluxation of the spine as demonstrated by x-ray or physical examination. There is no mention of the HCPCS modifier AT, which is required when providing active/corrective treatment to treat acute or chronic subluxation.
+
+The form is filled with placeholders and lacks specific, required information that would allow the insurance company to process the claim. It would need substantial rework to include all the necessary details and to ensure that it meets the criteria for insurance coverage. Therefore, the form receives a grade of D.

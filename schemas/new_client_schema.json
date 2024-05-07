@@ -1,0 +1,9 @@
+{
+    "name": {"status": "pending", "name": "patient_name", "type": "text"},
+    "date_of_birth": {"status": "pending", "name": "dob", "type": "text"},
+    "gender": {"status": "pending", "name": "gender", "type": "radio", "options": ["Male", "Female"]},
+    "marital_status": {"status": "pending", "name": "marital_status", "type": "selectbox", "options": ["single", "married", "divorced", "widowed", "separated", "other"]},
+    "employment_status": {"status": "pending", "name": "employment_status", "type": "selectbox", "options": ["employed", "unemployed", "student", "retired", "other"]},
+    "family_history": {"status": "pending", "name": "family_history", "type": "text_area"},
+    "medical_history": {"status": "pending", "name": "medical_history", "type": "text_area"}
+}

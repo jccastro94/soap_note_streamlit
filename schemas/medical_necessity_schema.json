@@ -1,0 +1,18 @@
+{
+    "chief_complaint": "",
+    "mechanism_of_trauma": "",
+    "symptoms": "",
+    "quality_of_symptoms": "",
+    "onset": "",
+    "duration": "",
+    "intensity": "",
+    "frequency": "",
+    "pain_location": "",
+    "radiation": "",
+    "prior_interventions_treatments_medications_secondary": "",
+    "aggravating_factors": "",
+    "relieving_factors": "",
+    "prior_level_of_function": "",
+    "next_message": "",
+    "completed": false
+}
